@@ -24,7 +24,9 @@
 ## 📖 Course Introduction
 <a name = 'introduction'></a>
 - **Course Name:** Machine Learning
-- **Course Code:** CS114.P11
+- **Course Code:** CS114
+- **Class**: CS114.P11
+- **Year:** 2024-2025
 - **Lecturer:**
   - PGS.TS. [**Lê Đình Duy**](duyld@uit.edu.vn)
   - ThS. [**Phạm Nguyễn Trường An**](truonganpn@uit.edu.vn)
