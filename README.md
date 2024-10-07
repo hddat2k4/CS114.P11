@@ -6,9 +6,30 @@
 </p>
 
 <h1 align="center" style="color: #4032A8;"><b>CS114.P11 - MÁY HỌC</b></h1>
-
 <hr>
 
-## MỤC LỤC
-- [Giới thiệu môn học](#gioithieumonhoc)
-- [Giảng viên hướng dẫn](#giangvien)
+## 📜 Table of contents
+- [About myself](#personal)
+- [Course Introduction](#introduction)
+## 👤 About myself
+<a name = 'personal'></a>
+- 🔭 I’m currently a third-year student at [UIT - VNU HCM City](https://en.uit.edu.vn/)
+- 👨‍🎓 I’m currently studying Computer Science with a focus on NLP
+- 💬 Ask me about ...
+- 📫 How to reach me: Find me at [Facebook](https://fb.com/hddat2609) or [Email](hddat2k4@gmail.com)
+- ⚡ Fun fact: 
+  - 🌱 I am studying English (planning to learn a second language, such as Korean or German).
+  - 🎶 I have a passion for music and can play the guitar
+ 
+## 📖 Course Introduction
+<a name = 'introduction'></a>
+- **Course Name:** Machine Learning
+- **Course Code:** CS114.P11
+- **Lecturer:**
+  - PGS.TS. [**Lê Đình Duy**](duyld@uit.edu.vn)
+  - ThS. [**Phạm Nguyễn Trường An**](truonganpn@uit.edu.vn)
+
+
+
+
+
