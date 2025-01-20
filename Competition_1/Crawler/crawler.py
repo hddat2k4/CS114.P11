@@ -4,6 +4,8 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
+scroll_num = 50
+
 def fetch_images_with_scroll(query, folder_name="images", num_images=100):
     # Tạo URL tìm kiếm
     search_url = f"https://www.google.com/search?hl=en&tbm=isch&q={query}"
@@ -24,7 +26,7 @@ def fetch_images_with_scroll(query, folder_name="images", num_images=100):
     last_height = driver.execute_script("return document.body.scrollHeight")
     scroll_count = 0
     
-    while len(img_urls) < num_images and scroll_count < 50:  # Giới hạn cuộn tối đa 50 lần
+    while len(img_urls) < num_images and scroll_count < scroll_num:  # Giới hạn cuộn tối đa 50 lần
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         time.sleep(3)  # Chờ hình ảnh tải xong
         images = driver.find_elements(By.CSS_SELECTOR, "img")
