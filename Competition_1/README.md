@@ -26,5 +26,5 @@ Thành phần cốt lõi của hệ thống phân loại này là module
 ### Tool
 - Các tool đã được upload trong thư mục BT
 - Khi sử dụng vui lòng hãy đổi đường dẫn trong các cell
-- Các tool đều được xây dựng để lấy thông tin data được upload lên Google Drive
+- Các tool đều được xây dựng dùng data được upload lên Google Drive
 
