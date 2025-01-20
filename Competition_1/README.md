@@ -15,7 +15,9 @@ Thành phần cốt lõi của hệ thống phân loại này là module
 <a name = 'instruct'></a>
 
 ### Links
-- 
+- [Dataset](https://drive.google.com/drive/u/1/folders/1Uj0V9URNHpzSHeXHSB89AoGCjGki8Yra): Drive chứa hình ảnh
+- [Competition 1](https://drive.google.com/drive/folders/1xP0U83GzfVCQF62CsOc6HLUa4v1zNJr0?usp=sharing): Chứa đầy đủ code của Competition 1, và các file phát sinh
+- [Kaggle](https://www.kaggle.com/datasets/kazzene/car-classification): Các đặc trưng được trích xuất từ dataset ở trên
 
 ### Data
 - Data được cung cấp bởi tất cả các nhóm sinh viên tham gia competition
