@@ -13,7 +13,7 @@
 - [Course Introduction](#introduction)
 ## 👤 About myself
 <a name = 'personal'></a>
-- 👤 My name is Huynh Danh Dat - 20 years old
+- 👤 My name is Huynh Danh Dat
 - 🔭 I’m currently a third-year student at [UIT - VNU HCM City](https://en.uit.edu.vn/) - Student ID: 22520211
 - 👨‍🎓 I’m currently studying Computer Science with a focus on NLP
 - 📫 How to reach me: Find me at [Facebook](https://fb.com/hddat2609) or [Email](hddat2k4@gmail.com)
